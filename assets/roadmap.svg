@@ -521,7 +521,7 @@
     </text>
   </g>
 
-  <a href="/cs/hashTable/" target="_blank">
+  <a href="https://dpbm.github.io/cs/hashTable/" target="_blank">
     <g class="clickable-group " data-group-id="104-data-structures:hash-table">
       <rect x="400.35" y="757.35" width="187.3" height="44.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1"
         stroke="rgb(0,0,0)" stroke-width="2.7"
