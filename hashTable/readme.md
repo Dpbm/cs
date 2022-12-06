@@ -77,7 +77,7 @@ java MapTest
 
 ```
 
-*references*:
+*referências*:
 * [Associative Array (Wikipedia)](https://en.wikipedia.org/wiki/Associative_array)
 * [Abstract Data Type (Wikipedia)](https://en.wikipedia.org/wiki/Abstract_data_type)
 * [interface em Programação (Wikipedia)](https://pt.wikipedia.org/wiki/Interface_(programa%C3%A7%C3%A3o_orientada_a_objetos))
